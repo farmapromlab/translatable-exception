@@ -2,7 +2,7 @@
     "name": "farmaprom/translatable-exception",
     "type": "project",
     "description": "TranslatableException",
-    "keywords": ["exception, translation"],
+    "keywords": ["exception translation"],
     "homepage": "http://it.farmaprom.pl",
     "authors": [
         {
