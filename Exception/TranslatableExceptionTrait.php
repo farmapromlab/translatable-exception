@@ -8,7 +8,7 @@ trait TranslatableExceptionTrait
      * Parameters for translation
      * @var array
      */
-    protected $translationParams;
+    protected $translationParams = [];
 
     /**
      *
