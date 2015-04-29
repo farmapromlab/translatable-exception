@@ -1,8 +1,8 @@
 {
-    "name": "farmaprom/log-smasher",
+    "name": "farmaprom/translatable-exception",
     "type": "project",
-    "description": "Logs",
-    "keywords": ["log"],
+    "description": "TranslatableException",
+    "keywords": ["exception, translation"],
     "homepage": "http://it.farmaprom.pl",
     "authors": [
         {
