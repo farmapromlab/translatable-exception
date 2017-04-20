@@ -1,8 +1,8 @@
 {
     "name": "farmaprom/translatable-exception",
-    "type": "project",
-    "description": "TranslatableException",
-    "keywords": ["exception translation"],
+    "type": "library",
+    "description": "Exception that can be translated",
+    "keywords": ["exception", "translation", "php"],
     "homepage": "http://lab.farmaprom.pl/",
     "authors": [
         {
